@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 const GameScreen = () => {
   return (
     <View>
-      <Text>Game Start!</Text>
+      <Text>Game Start</Text>
     </View>
   );
 };
