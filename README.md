@@ -1,1 +1,1 @@
-# react-navtive_scoreGame
+# react-native_scoreGame
